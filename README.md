@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AdityaGupta0001/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaGupta0001/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AdityaGupta0001/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AdityaGupta0001/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaGupta0001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AdityaGupta0001/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaGupta0001/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
