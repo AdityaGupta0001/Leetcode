@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AdityaGupta0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdityaGupta0001/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/AdityaGupta0001/Leetcode/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdityaGupta0001/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/AdityaGupta0001/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
