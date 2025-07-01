@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaGupta0001/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AdityaGupta0001/Leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AdityaGupta0001/Leetcode/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AdityaGupta0001/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
