@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaGupta0001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaGupta0001/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaGupta0001/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/AdityaGupta0001/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaGupta0001/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/AdityaGupta0001/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
