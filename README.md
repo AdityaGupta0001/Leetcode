@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdityaGupta0001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AdityaGupta0001/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AdityaGupta0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AdityaGupta0001/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sliding Window
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AdityaGupta0001/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AdityaGupta0001/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
