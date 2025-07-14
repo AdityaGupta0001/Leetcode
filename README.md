@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AdityaGupta0001/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AdityaGupta0001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaGupta0001/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/AdityaGupta0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AdityaGupta0001/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdityaGupta0001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AdityaGupta0001/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/AdityaGupta0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AdityaGupta0001/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sliding Window
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaGupta0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdityaGupta0001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AdityaGupta0001/Leetcode/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
 | ------- |
