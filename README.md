@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaGupta0001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AdityaGupta0001/Leetcode/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdityaGupta0001/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
